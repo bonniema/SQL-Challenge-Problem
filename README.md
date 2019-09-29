@@ -6,7 +6,7 @@ Dallas Police Department compiled information on Officer-involved shootings in t
 
 ## The Database:
 
-This database contains three tables: Incidents, Officers, and Subjects. Explore the data in each of the tables in dalla-ois.sqlite.
+This database contains three tables: Incidents, Officers, and Subjects. Explore the data in each of the tables in dallas-ois.sqlite.
   
 ## Your Challenge: 
 
