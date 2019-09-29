@@ -16,5 +16,6 @@ Join the tables together by incident number. Then, do the following:
 * How many of them were unarmed? 
 * Were any officers involved in multiple cases? 
 * How many cases are still pending? 
+* How many of the cases had an officer and victim of the same race? 
 
 Create a Jupyter notebook as a class and work on this collaboratively, using Slack and pull requests. Matt and I will collect the class's notebook from this folder on Friday night. 
